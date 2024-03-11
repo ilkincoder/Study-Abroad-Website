@@ -11,7 +11,6 @@ About Us page - https://www.canva.com/p/templates/EAFtpGlloZE-black-and-white-mo
 Contact page - https://www.canva.com/p/templates/EAFtpPtmfxs-black-and-white-modern-minimalist-creative-portfolio-our-service-page-website-design-prototype/
 
 2. User stories
-
    As a User I want to see the header
    As a User I want to click and see
    "about us" and contact us section
