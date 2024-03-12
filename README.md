@@ -18,7 +18,9 @@ Contact page - https://www.canva.com/p/templates/EAFtpPtmfxs-black-and-white-mod
    As a User I want to be able to see universities based on countries
    As a User I want to see the footer
    
-
+3. Business Requirements
+   As a User I want to see the logo and mission on the home page
+   As a User I want to see the navigation of the page
 
 
 
